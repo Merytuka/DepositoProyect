@@ -1,5 +1,9 @@
 package cuentas;
-
+/**
+ * 
+ * @author mery_ 
+ * Este es un ejemplo de comentario JavaDoc multilínea
+ */
 public class CCuenta {
 
     /**
